@@ -1,0 +1,13 @@
+{
+    "plugins": ["disqus", "fontsettings"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "yinnote"
+        },
+        "fontsettings": {
+            "theme":"sepia",
+            "family":"sans",
+            "size":2
+        }
+    }
+}
