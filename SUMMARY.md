@@ -1,7 +1,5 @@
 # Summary
 
-* [环境搭建]
-
 * [基础]
  - [语法](primary/语法.md)
  - [数据类型](primary/数据类型.md)
@@ -12,9 +10,9 @@
  - [函数](primary/函数.md)
 * [高级]
  - [日期时间](senior/日期时间.md)
- - [include](senior/include.md)
- - [cookie](senior/cookie.md)
- - [session](senior/session.md)
+ - [Include](senior/Include.md)
+ - [Cookie](senior/Cookie.md)
+ - [Session](senior/Session.md)
  - [文件上传](senior/文件上传.md)
  - [邮件](senior/邮件.md)
 * [设计模式]
