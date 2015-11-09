@@ -9,6 +9,7 @@
  - [常量](primary/常量.md)
  - [数组](primary/数组.md)
  - [字符串](primary/字符串.md)
+ - [函数](primary/函数.md)
  - [面向对象](primary/面向对象.md)
 * [设计模式]
  - [原型设计](design/原型设计.md)
